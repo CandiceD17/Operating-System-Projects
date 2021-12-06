@@ -1,6 +1,6 @@
 # Operating System Projects
 
-This is a codebase for C-implementation of OS projects in UCLA CS111 course. (I got all full scores for the projects.)
+This is a codebase for C-implementation of OS projects in UCLA CS111 course. (All full scores for the projects.)
 
 Some important concepts include:
 
